@@ -1,0 +1,1 @@
+# add flutter_local_notifications: ^x.x.x to pubspec.yaml
